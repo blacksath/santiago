@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://images8.alphacoders.com/447/447769.jpg);
+    background-position-x:center;
+    background-size: cover;
+    }
+    
+    h5{
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    }
